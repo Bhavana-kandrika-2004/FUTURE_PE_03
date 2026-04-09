@@ -1,0 +1,37 @@
+You are an SEO content strategist and blog writer.
+
+Generate SEO-optimized blog content for a business website.
+
+Business: CarePlus Clinic
+Location: Vijayawada
+Main Keyword: Best clinic in Vijayawada
+Secondary Keywords: general physician in Vijayawada, health checkup clinic Vijayawada, affordable clinic near me
+
+Requirements:
+
+1. Create an SEO blog outline:
+
+   * H1 (title)
+   * H2 and H3 headings
+
+2. Write a detailed blog post (800–1000 words):
+
+   * Include keywords naturally
+   * Maintain readability and clarity
+   * Focus on helpful information
+
+3. Add internal linking ideas:
+
+   * Suggest 3 related blog topics
+   * Explain how they connect
+
+4. Include CTA section:
+
+   * Encourage booking appointment
+
+Ensure:
+
+* SEO-friendly structure
+* Human-readable content
+* Local SEO optimization
+* Informative and trustworthy tone
